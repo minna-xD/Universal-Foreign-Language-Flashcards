@@ -1,0 +1,154 @@
+henkilöllisyystodistus|identification form
+sukunimi|last name
+etunimi / etunimet|first (and middle) name(s)
+ikä|age
+kansallisuus|nationality
+nykyinen osoite|current address
+ammatti|profession
+harrastukset|pastimes
+henkilökohtaiset kysymykset|personal questions
+Mikä on nimesi?|What is your name?
+Kuinka vanhat olet?|How old are you?
+Mikä on kansallisuutesi?|What is your nationality?
+Mistä olet kotoisin?|Where are you from?
+Missä asut?|Where do you live?
+Mitä teet työksesi?|What do you do for a living?
+Mitä harrastat?|What are your favorite pastimes?
+perhe|the family
+mies|man
+nainen, vaimo|woman, wife
+aviomies|husband
+kihlattu|fiancé / fiancée
+vanhemmat, sukulaiset|parents, relatives
+isä|father
+äiti|mother
+lapsi|child
+poika|son
+tytär|daughter
+ainoa lapsi|only child (male)
+ainoa lapsi|only child (female)
+veli|brother
+sisar, sisko|sister
+isovanhemmat|grandparents
+isoisä, ukki|grandfather
+isoäiti, mummi, mummo|grandmother
+lapsenlapsi|grandchild
+eno, setä|uncle
+täti|aunt
+veljenpoika, siskonpoika|nephew
+veljentyttö, siskontyttö|niece
+ystävät|friends
+ystävä|friend
+kaveri|friend
+poikaystävä / tyttöystävä|friend; boyfriend / girlfriend
+kysymyssanat|interrogative words
+missä?|where?
+milloin?|when?
+kuka?|who?
+kuinka?|how?
+mikä, mitkä?|which?
+miksi?|why?
+koska|because
+aika|time
+kellonaika|the time
+Mitä kello on? / Kuinka paljon kello on?|What time is it?
+Kello on kahdeksan.|It's 8 o'clock.
+Kello on kymmentä yli kahdeksan.|It's ten after 8.
+Kello on vartin (varttia) yli kahdeksan.|It's quarter after 8.
+Kello on kaksikymmentäviisi yli kahdeksan.|It's twenty-five after 8.
+Kello on puoli yhdeksän.|It's eight-thirty.
+Kello on kaksikymmentä vaille yhdeksän.|It's twenty to nine.
+Kello on vartin (varttia) vaille yhdeksän.|It's quarter to nine.
+On keskipäivä.|It's noon.
+Kello on puoli yksi.|It's twelve-thirty.
+On keskiyö.|It's midnight.
+Kello on kolme...|It's three o'clock...
+aamulla|in the morning (3 a.m.)
+iltapäivällä|in the afternoon (3 p.m.)
+Kello on seitsemän...|It's seven o'clock...
+illalla|in the evening (7 p.m.)
+tarkka aika|official time
+Kello on 10.00.|It's 10 a.m.
+Kello on 12.05.|It's 12:05 p.m.
+Kello on 13.15.|It's 1:15 p.m.
+Kello on 15.35.|It's 3:35 p.m.
+Kello on 18.45.|It's 6:45 p.m.
+Kello on 22.59.|It's 10:59 p.m.
+harrastukset ja aktiviteetit|pastimes and activities
+omistaa, olla|to have
+tarvita...|to need
+haluta...|to feel like (to want to)
+aikoa...|to intend (to)
+etsiä|to look for
+löytää|to find
+(Etsivä löytää!)|(Who looks for (searches), finds!)
+rakastua|to fall in love
+suudella|to kiss
+kuunnella...|to listen to...
+musiikki|music
+laulaa|to sing
+tanssia|to dance
+pitää, rakastaa|to like, to love
+klassinen musiikki / jazz|classical music / jazz
+hiphop / tekno|hip-hop / techno
+urheilu / tennis / jalkapallo|sports / tennis / soccer
+koripallo / golf / juoksu|basketball / golf / running
+pitää|to prefer
+rakastaa|to adore
+inhota|to detest
+asua|to live
+pysyä kotona|to stay at home
+opiskella|to study
+lukea|to read
+unohtaa|to forget
+katsoa televisiota|to watch television
+soittaa puhelimella|to telephone
+puhua|to speak
+pelata... (sport, game)/ soittaa... (instrument)|to play...
+jalkapalloa / tennistä / korttia|soccer / tennis / cards
+kitaraa / pianoa|guitar / piano
+uida|to swim
+tavata|to meet
+uneksia|to dream
+työskennellä|to work
+matkustaa|to travel
+adverbit|adverbs
+myös|also
+nyt|now
+myöhemmin|later
+paljon|a lot
+vähän|little / a little
+harvoin|rarely
+toisinaan|at times
+joskus|sometimes
+usein|often
+aina|always
+ei koskaan|never
+mantereet, valtiot, kansallisuudet|continents, Countries, Nationalities
+manner|continent
+valtio, maa|country
+Afrikka / afrikkalainen|Africa / African
+Algeria / algerialainen|Algeria / Algerian
+Marokko / marokkolainen|Morocco / Moroccan
+Senegal / senegalilainen|Senegal / Senegalese
+Tunisia / tunisialainen|Tunisia / Tunisian
+Pohjois-Amerikka|North America
+Kanada / kanadalainen|Canada / Canadian
+Yhdysvallat / yhdysvaltalainen|United States / American
+Meksiko / meksikolainen|Mexico / Mexican
+Etelä-Amerikka|South American
+Ranskan Guayana / ranskan guayanalainen|French Guyana / Guyanese
+Aasia / aasialainen|Asia / Asian
+Kiina / kiinalainen|China / Chinese
+Japani / japanilainen|Japan / Japanese
+Vietnam / vietnamilainen|Vietnam / Vietnamese
+Oseania|Oceania (the South Sea Islands)
+Australia / australialainen|Australia / Australian
+Eurooppa / eurooppalainen|Europe / European
+Saksa / saksalainen|Germany / German
+Englanti / englantilainen|England / English
+Belgia / belgialainen|Belgium / Belgian
+Espanja / espanjalainen|Spain / Spanish
+Ranska / ranskalainen|France / French
+Italia / italialainen|Italy / Italian
+Sveitsi / sveitsiläinen|Switzerland / Swiss

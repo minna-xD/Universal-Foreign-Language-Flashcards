@@ -1,0 +1,150 @@
+sää|weather
+Millainen sää on?|What's the weather?
+On kaunis sää.|It's nice.
+On kuuma.|It's hot.
+On aurinkoista. / Aurinko paistaa.|It's sunny.
+On viileää.|It's cool.
+On huono sää.|It's bad.
+On kylmä.|It's cold.
+On sumuista. / On sumua.|It's foggy.
+On tuulista.|It's windy.
+On pilvistä.|It's cloudy.
+On myrskyinen sää. / Myrskyää.|There are storms.
+Sataa. / Sataa vettä.|It's raining.
+Sataa lunta.|It's snowing.
+vuodenajat|seasons
+kevät / keväällä|spring / in the spring
+kesä / kesällä|summer / in the summer
+syksy / syksyllä|fall / in the fall
+talvi / talvella|winter / in the winter
+maantiede|geography
+maaseutu|countryside
+kylä, kaupunki|town, city
+provinssi|province
+alue|region
+järvi|lake
+joki|major river (that flows to the sea)
+Loire|the Loire (river)
+Garonne|the Garonne (river)
+Rhône|the Rhône (river)
+Seine|the Seine (river)
+meri|sea
+Välimeri|the Mediterranean Sea
+valtameri|ocean
+Atlantin valtameri / Atlantti|the Atlantic Ocean
+Englannin kanaali|the English Channel
+ranta|beach
+metsä|forest
+vuoret, vuoristo|mountain
+Alpit|the Alps
+Jura|the Jura (mountains)
+Pyreneet|the Pyrenees
+Ranskan keskiylänkö|the Massif Central
+Vogeesit|the Vosges
+ilmansuunnat|points of the compass
+pohjoisessa|in the north
+etelässä|in the south
+idässä|in the east
+lännessä|in the west
+keskellä|in the center
+rannikolla|on the coast
+Ranska|France
+Alsace|Alsace
+Burgundi|Burgundy
+Bretagne|Brittany
+Ranskan Riviera|the Riviera
+Korsika |Corsica
+Île-de-France|Ile de France
+(Pariisin seutu)|(Parisian region)
+Lorraine|Lorraine
+Normandia|Normandy
+Provence|Provence
+Loiren laakso|the Loire Valley
+aktiviteetit|activities
+mennä|to go
+mennä elokuviin|to go to the movies
+mennä yökerhoon|to go clubbing
+mennä konserttiin|to go to a concert
+mennä yliopistoon|to go to the university
+mennä puistoon|to go to the park
+mennä polkupyöräilemään|to go bicycle riding
+mennä veneilemään|to go boating
+mennä surffaamaan|to go windsurfing
+mennä vaeltamaan|to go hiking
+mennä hiihtämään|to go skiing
+mennä pyöräilemään|to go cycling
+mennä purjehtimaan|to go sailing
+mennä kävelylle|to take a walk
+lomailla|spend a vacation
+vierailla ... (paikassa, ei henkilön luona)|to visit... (a place, not a person)
+katedraali, kirkko|a cathedral
+linna|a castle
+näyttely, esitys|an exhibition, show
+muistomerkki, monumentti, maamerkki|a monument
+museo|a museum
+liikennevälineet|means of transport
+Kuinka matkustat?|How do you travel?
+Matkustan...|I travel...
+lentokoneella / lentokone|by plane / plane
+laivalla / laiva|by boat / boat
+junalla / juna|by train / train
+bussilla, linja-autolla / bussi|by tour bus (from city to city) / tour bus
+autolla / auto|by car / car
+Kuinka matkustat... (yliopistolle, vanhemmille, töihin, jne.)?|How do you go... (to the university, to your parents' house, to work, etc.) ?
+Menen...|I go...
+metrolla / metro|by subway / subway
+bussilla / bussi|by bus / bus
+taksilla / taksi|by taxi / taxi
+moottoripyörällä, mopolla / moottoripyörä, mopo|by motorcycle / motorcycle
+polkupyörällä, pyörällä / polkupyörä|by bicycle / bicycle
+jalan, kävellen|on foot
+verbit|verbs
+ostaa|to buy
+ottaa mukaan|to bring somebody (along)
+vaihtaa|to change
+nukkua|to sleep
+viedä mukana|to take somebody (along)
+toivoa|to hope
+yrittää|to try
+syödä|to eat
+uida|to swim
+jakaa|to share
+lähteä|to leave
+mennä ulos|to go out
+Perusluvut 70-100|Cardinal Numbers 70-100
+seitsemänkymmentä|70
+seitsemänkymmentäyksi|71
+seitsemänkymmentäkaksi|72
+seitsemänkymmentäkolme|73
+seitsemänkymmentäneljä|74
+seitsemänkymmentäviisi|75
+seitsemänkymmentäkuusi|76
+seitsemänkymmentäseitsemän|77
+seitsemänkymmentäkahdeksan|78
+seitsemänkymmentäyhdeksän|79
+kahdeksankymmentä|80
+kahdeksankymmentäyksi|81
+kahdeksankymmentäkaksi|82
+kahdeksankymmentäkolme|83
+kahdeksankymmentäneljä|84
+kahdeksankymmentäviisi|85
+kahdeksankymmentäkuusi|86
+kahdeksankymmentäseitsemän|87
+kahdeksankymmentäkahdeksan|88
+kahdeksankymmentäyhdeksän|89
+yhdeksänkymmentä|90
+yhdeksänkymmentäyksi|91
+yhdeksänkymmentäkaksi|92
+yhdeksänkymmentäkolme|93
+yhdeksänkymmentäneljä|94
+yhdeksänkymmentäviisi|95
+yhdeksänkymmentäkuusi|96
+yhdeksänkymmentäseitsemän|97
+yhdeksänkymmentäkahdeksan|98
+yhdeksänkymmentäyhdeksän|99
+sata|100
+satakaksi|102
+kaksisataa|200
+tuhat|1.000
+kaksi tuhatta|2.000
+miljoona|1.000.000
