@@ -10,8 +10,8 @@ Nähdään kohta.|See you in a little while.
 Nähdään illalla.|See you this evening.
 Nähdään huomenna.|See you tomorrow.
 Nähdään pian.|See you soon.
-Mikä sinun nimesi on?|What's your name? (formal)
-Mikä sun nimi on?|What's your name? (informal)
+Mikä teidän nimenne on?|What's your name? (formal)
+Mikä sinun nimesi on?|What's your name? (informal)
 Nimeni on ...|My name is ...
 Kuinka voitte?|How are you? (formal)
 Mitä kuuluu?|How are you? (informal)
@@ -25,7 +25,7 @@ Ihan hyvin.|Things are going (well).
 Entä te? Mistä olette kotoisin?|And you? Where are you from? (formal)
 Entä sinä? Mistä olet kotoisin?|And you? Where are you from? (informal)
 esittelyt|introductions
-Haluaisin esitellä teidät ...|Sir, I would like to introduce to you ... (formal)
+Haluaisin esitellä teille ...|Sir, I would like to introduce to you ... (formal)
 Hän on ...|This is ... (informal)
 Tässä on ...|This is ...
 Kuka hän on?|Who is it?
@@ -39,9 +39,9 @@ Heidän nimensä ovat ...|Their names are ...
 Mitä hän tekee työkseen?|What does he/she do?
 Mitä he tekevät työkseen?|What do they do?
 Hän on ...|He/She is a/an ...
-näyttelijä / näyttelijätär|actor / actress
+näyttelijä (m, f) / näyttelijätär (f)|actor / actress
 arkkitehti|architect
-laulaja / laulajatar|singer
+laulaja (m, f) / laulajatar (f)|singer
 kampaaja|hair dresser
 hammaslääkäri|dentist
 insinööri|engineer
