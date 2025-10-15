@@ -1,46 +1,46 @@
-les études secondaires et supérieures|high school and university studies
-la rentrée|beginning of school year
-le collège|junior high, middle school
-le lycée|high school
-un lycéen / une lycéenne|high school student
-la seconde|first year of high school
-la première|second year of high school
-la terminale|final year of high school
-le baccalauréat / le bac|baccalaureate exam
-un bachelier / une bachelière|student who has passed the bac
-un concours (d'entrée)|competitive entrance exam
-la fac|college, university
-la Faculté des Beaux-Arts|school of fine arts
-la Faculté de Lettres et des Sciences Humaines|school of humanities/liberal arts
-la Faculté de Médecine|school of medicine
-la Faculté de Pharmacie|school of pharmacy
-la Faculté des Sciences|school of sciences
-la Faculté de Droit|law school
-L'Ecole de Commerce (f)|business school
-les Grandes Écoles (f)|elite professional schools
-une résidence universitaire|dormitory
-un restaurant universitaire (un restau-U)|university cafeteria
-une cafétéria|cafeteria
-un amphithéâtre / un amphi|amphitheater
-une salle de classe|classroom
-un cours (de maths...)|a class (math class...)
-un cours magistral (des cours magistraux)|large lecture class
-un laboratoire / un labo|laboratory / lab
-une bibliothèque|library
-les devoirs (m)|homework
-une copie|student paper
-un exposé oral|oral presentation
-un examen|test, exam
-une note|grade
-les résultats|results, grades
-un bulletin de notes|grade report
-un emploi du temps|schedule
-une carte d'étudiant|student ID card
-un stage|internship
-un diplôme|a diploma, degree
-les matières et les cours|subjects and classes
-l'architecture (f)|architecture
-l'art (m)|art
+lukio- ja yliopisto-opinnot|high school and university studies
+lukuvuoden alku|beginning of school year
+yläaste, yläkoulu (grades 7-9)|junior high, middle school
+lukio|high school
+lukiolainen|high school student
+lukion ensimmäinen luokka|first year of high school
+lukion toinen luokka|second year of high school
+lukion kolmas luokka|final year of high school
+ylioppilaskoe|baccalaureate exam
+ylioppilas|student who has passed the bac
+sisäänpääsykoe|competitive entrance exam
+ammattikoulu, ammattikorkeakoulu, yliopisto|college, university
+taideyliopisto, kuvataideakatemia|school of fine arts
+humanistinen tiedekunta|school of humanities/liberal arts
+lääketieteellinen tiedekunta|school of medicine
+farmasian laitos|school of pharmacy
+luonnontieteellinen tiedekunta|school of sciences
+oikeustieteellinen tiedekunta|law school
+kauppakorkeakoulu|business school
+eliittikoulut|elite professional schools
+asuntola|dormitory
+yliopiston kahvila|university cafeteria
+kahvila|cafeteria
+auditorio|amphitheater
+luokkahuone, luokka|classroom
+(matematiikan jne.) tunti|a class (math class...)
+luento|large lecture class
+laboratorio / labra|laboratory / lab
+kirjasto|library
+läksy|homework
+kirjallinen esitelmä|student paper
+suullinen esitelmä|oral presentation
+koe|test, exam
+arvosana|grade
+tulokset|results, grades
+todistus|grade report
+lukujärjestys|schedule
+opiskelijakortti|student ID card
+harjoittelu|internship
+tutkinto|a diploma, degree
+oppiaineet ja tunnit|subjects and classes
+arkkitehtuuri|architecture
+taide|art
 le dessin|drawing, design
 la musique|music
 la peinture|painting
