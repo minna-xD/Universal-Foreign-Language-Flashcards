@@ -41,63 +41,63 @@ tutkinto|a diploma, degree
 oppiaineet ja tunnit|subjects and classes
 arkkitehtuuri|architecture
 taide|art
-le dessin|drawing, design
-la musique|music
-la peinture|painting
-la communication|communications
-la comptabilité|accounting
-le droit|law
-l'économie (f)|economics
-la géographie|geography
-l'histoire (f)|history
-l'informatique (f)|computer science
-les langues (f)|languages
-le chinois|Chinese
-l'allemand (m)|German
-l'anglais (m)|English
-l'espagnol (m)|Spanish
-le français|French
-l'italien (m)|Italian
-le latin|Latin
-la linguistique|linguistics
-la littérature|literature
-les mathématiques (f) / les maths|math
-la médecine|medicine
-la pharmacie|pharmacy
-la philosophie|philosophy
-la psychologie|psychology
-la biologie|biology
-la chimie|chemistry
-la physique|physics
-les sciences politiques (f)|political science
-la sociologie|sociology
-adjectifs|adjectives
-chargé(e)|full, busy (referring to schedule)
-occupé(e)|busy
-prochain(e)|next
-dernier / dernière|last
-verbes|verbs
-s’inscrire (à la fac, au ciné-club ...)|to register, enroll (in university, film club ...)
-régler (les frais d’inscription)|to pay (one’s tuition/fees)
-En quelle matiére est-ce que tu te spécialises?|What's your major?
-suivre|to take (a course), to follow
-aller en cours|to attend class
-faire ses devoirs|to do one’s homework
-faire un effort|to make an effort
-faire des progrès|to improve
-se renseigner|to find out about, to get information
-apprendre|to learn
-comprendre|to understand
-passer un examen|to take an exam
-réussir (à) un examen|to pass (an exam), to succeed (in)
-réussir à + infinitif|to succeed at ...
-avoir la moyenne|to receive a passing grade
-recevoir son diplôme|to graduate, to complete one’s studies
-être bonne / bon en ...|to be good in/at ...
-être mauvais(e) en ...|to be bad in/at ...
-être nul(le) en ... [slang]|to suck in/at ...
-se décourager|to be discouraged
-sécher un cours|to skip a class
-rater|to fail
-redoubler|to repeat a grade/course
-quitter|to leave (something, someone or some place)
+piirustus, suunnittelu|drawing, design
+musiikki|music
+maalaus|painting
+viestintä|communications
+kirjanpito|accounting
+laki, oikeustiede|law
+taloustiede|economics
+maantiede|geography
+historia|history
+tietojenkäsittelytiede|computer science
+kielet|languages
+kiina|Chinese
+saksa|German
+englanti|English
+espanja|Spanish
+ranska|French
+italia|Italian
+latina|Latin
+kielitiede|linguistics
+kirjallisuus|literature
+matematiikka / matikka|math
+lääketiede|medicine
+farmasia|pharmacy
+filosofia|philosophy
+psykologia|psychology
+biologia|biology
+kemia|chemistry
+fysiikka|physics
+valtiotiede|political science
+sosiologia|sociology
+adjektiivit|adjectives
+täysi, kiireinen|full, busy (referring to schedule)
+kiireinen|busy
+seuraava|next
+edellinen|last
+verbit|verbs
+rekisteröityä, ilmoittautua (yliopistoon, filmikerhoon ...)|to register, enroll (in university, film club ...)
+maksaa (lukukausimaksu)|to pay (one’s tuition/fees)
+Mikä on pääaineesi?|What's your major?
+käydä (kurssia)|to take (a course), to follow
+mennä luennolle|to attend class
+tehdä läksyt|to do one’s homework
+ponnistella, nähdä vaivaa|to make an effort
+parantaa, kehittyä|to improve
+oppia, saada tietoa|to find out about, to get information
+oppia|to learn
+ymmärtää|to understand
+tehdä koe|to take an exam
+läpäistä koe, päästä läpi kokeesta|to pass (an exam), to succeed (in)
+onnistua (jossakin)|to succeed at ...
+saada hyväksytty arvosana, päästä läpi|to receive a passing grade
+valmistua|to graduate, to complete one’s studies
+olla hyvä (jossakin)|to be good in/at ...
+olla huono (jossakin)|to be bad in/at ...
+olla surkea (jossakin)|to suck in/at ...
+lannistua|to be discouraged
+olla poissa tunnilta, lintsata/pinnata (informal)|to skip a class
+epäonnistua, reputtaa (informal)|to fail
+jäädä luokalle, uusia kurssi|to repeat a grade/course
+lopettaa (jokin), lähteä (jostakin)|to leave (something, someone or some place)
