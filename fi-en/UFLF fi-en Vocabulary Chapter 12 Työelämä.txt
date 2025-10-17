@@ -46,41 +46,41 @@ työläinen, duunari (informal)|blue collar worker
 tehdas|factory
 IT-asiantuntija, ohjelmistokehittäjä|computer scientist
 insinööri|engineer
-un chercheur|researcher
-un technicien / une technicienne|technician
-un/une propriétaire|owner
-un commerçant / une commerçante|shopkeeper, store owner
-un vendeur / une vendeuse|salesperson
-un caissier / une caissière|cashier
-un restaurateur|restaurant owner
-un cuisinier / une cuisinière|cook
-un serveur / une serveuse|wait person
-un boulanger / une boulangère|a baker
-un couturier / une couturière|fashion designer, seamstress
-un coiffeur / une coiffeuse|hairdresser
-un critique (de films, d'art, etc.)|critic (film, art, etc.)
-un écrivain|writer
-un journaliste|reporter, journalist
-un peintre / une peintre|painter
-un musicien / une musicienne|musician
-un voyagiste / un agent de voyage|travel agent
-une femme au foyer|housewife
-adjectifs|adjectives
-dur(e) / difficile|hard, tough, difficult
-dynamique|dynamic
-honnête|honest
-passionnant(e)|enthralling, fascinating
-utile|useful
-inutile|useless
-d'occasion (une voiture d'occasion)|second-hand, used
-verbes|verbs
-chercher une situation|to look for a job
-faire une demande d'emploi|to apply for a job
-prendre un rendez-vous|to make an appointment
-remplir un formulaire|to fill out a form
-embaucher / être embauché(e)|to hire / to be hired
-gérer|to manage, direct, organize
-gagner sa vie / gagner de l'argent|to earn a living / to earn money
-payer des impôts|to pay taxes
-être au chômage|to be unemployed
-être à la retraite|to be retired
+tutkija|researcher
+teknikko|technician
+omistaja|owner
+kauppias|shopkeeper, store owner
+myyjä|salesperson
+kassanhoitaja|cashier
+ravintoloitsija|restaurant owner
+kokki|cook
+tarjoilija|wait person
+leipuri|a baker
+muotisuunnittelija, ompelija|fashion designer, seamstress
+kampaaja (for women), parturi (for men)|hairdresser
+(elokuva-, taide- jne.)kriitikko|critic (film, art, etc.)
+kirjailija|writer
+toimittaja, reportteri, journalisti|reporter, journalist
+maalari|painter
+muusikko|musician
+matkatoimistovirkailija, matkamyyjä|travel agent
+kotirouva|housewife
+adjektiivit|adjectives
+hankala, rankka, vaikea|hard, tough, difficult
+dynaaminen|dynamic
+rehellinen, rehti|honest
+mukaansatempaava, kiehtova|enthralling, fascinating
+hyödyllinen|useful
+hyödytön|useless
+käytetty|second-hand, used
+verbit|verbs
+etsiä työtä|to look for a job
+hakea työtä|to apply for a job
+varata/sopia tapaaminen|to make an appointment
+täyttää lomake|to fill out a form
+palkata / saada työpaikka / päästä töihin|to hire / to be hired
+johtaa|to manage, direct, organize
+tienata elantonsa / ansaita rahaa|to earn a living / to earn money
+maksaa veroja|to pay taxes
+olla työtön|to be unemployed
+olla eläkkeellä|to be retired
