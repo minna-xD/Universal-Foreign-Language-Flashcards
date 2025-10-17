@@ -1,33 +1,33 @@
-le visage|the face
-la tête|head
-les cheveux (m)|hair
-le front|forehead
-les sourcils (m)|eyebrows
-les yeux (m)|eyes
-le nez|nose
-les joues (f)|cheeks
-les oreilles (f)|ears
-la bouche|mouth
-les dents (f)|teeth
-le menton|chin
-le cou|neck
-les couleurs(f)|colors
-blanc / blanche|white
-bleu / bleue|blue
-gris / grise|gray
-jaune|yellow
-marron (invariable)|brown
-noir / noire|black
-orange (invariable)|orange
-rouge|red
-vert / verte|green
-violet / violette|purple
-le portrait physique|physical description
-Quelle est votre taille (f)?|What's your height?
-Je fais 1 m. 60.|I'm one meter 60.
-de taille moyenne|of medium height
-Combien pesez-vous?|How much do you weigh?
-Je fais 55 kilos.|I weigh 55 kilos.
+kasvot|the face
+pää|head
+hiukset|hair
+otsa|forehead
+kulmakarvat|eyebrows
+silmät|eyes
+nenä|nose
+posket|cheeks
+korvat|ears
+suu|mouth
+hampaat|teeth
+leuka|chin
+kaula|neck
+värit|colors
+valkoinen|white
+sininen|blue
+harmaa|gray
+keltainen|yellow
+ruskea|brown
+musta|black
+oranssi|orange
+punainen|red
+vihreä|green
+violetti|purple
+ulkonäön kuvaus|physical description
+Kuinka pitkä olet?|What's your height?
+Olen 160 cm. / Olen 160-senttinen. / Olen 160 senttiä.|I'm one meter 60.
+keskipituinen|of medium height
+Kuinka painava olet? / Paljonko painat?|How much do you weigh?
+Painan 55 kiloa.|I weigh 55 kilos.
 maigre|thin, skinny
 mince|thin, slender
 De quelle couleur sont vos cheveux?|What color is your hair?
