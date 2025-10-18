@@ -1,4 +1,4 @@
-pöytä|at the table
+pöydässä|at the table
 lasi|glass
 muki, kuppi|cup
 kulho|bowl
@@ -53,7 +53,7 @@ vasikkaa|veal
 ankkaa|duck
 kalkkunaa|turkey
 kanaa|chicken
-leikkelemyymälässä, herkkukauppa|at the pork butcher shop, delicatessen
+leikkelemyymälässä, herkkukaupassa|at the pork butcher shop, delicatessen
 Leikkelemyymälästä voi ostaa ...|At the pork butcher's, you buy ...
 kinkkua|ham
 pateeta|pâté
