@@ -146,5 +146,5 @@ sata|100
 satakaksi|102
 kaksisataa|200
 tuhat|1.000
-kaksi tuhatta|2.000
+kaksituhatta|2.000
 miljoona|1.000.000
