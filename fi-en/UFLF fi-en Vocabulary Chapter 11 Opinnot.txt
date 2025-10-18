@@ -17,7 +17,7 @@ farmasian laitos|school of pharmacy
 luonnontieteellinen tiedekunta|school of sciences
 oikeustieteellinen tiedekunta|law school
 kauppakorkeakoulu|business school
-eliittikoulut|elite professional schools
+huippuyliopistot|elite professional schools
 asuntola|dormitory
 yliopiston kahvila|university cafeteria
 kahvila|cafeteria
@@ -28,7 +28,7 @@ luento|large lecture class
 laboratorio / labra|laboratory / lab
 kirjasto|library
 läksy|homework
-kirjallinen esitelmä|student paper
+essee|student paper
 suullinen esitelmä|oral presentation
 koe|test, exam
 arvosana|grade
@@ -61,7 +61,7 @@ italia|Italian
 latina|Latin
 kielitiede|linguistics
 kirjallisuus|literature
-matematiikka / matikka|math
+matematiikka / matikka (informal)|math
 lääketiede|medicine
 farmasia|pharmacy
 filosofia|philosophy
@@ -85,7 +85,7 @@ mennä luennolle|to attend class
 tehdä läksyt|to do one’s homework
 ponnistella, nähdä vaivaa|to make an effort
 parantaa, kehittyä|to improve
-oppia, saada tietoa|to find out about, to get information
+oppia, ottaa selvää, saada tietoa|to find out about, to get information
 oppia|to learn
 ymmärtää|to understand
 tehdä koe|to take an exam
