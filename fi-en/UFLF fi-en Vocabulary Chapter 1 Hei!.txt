@@ -66,7 +66,7 @@ pöytä|desk
 Pöydällä on ...|On the desk, there is ...
 liitu|chalk
 lyijykynä|pencil
-kuulakärkikynä|pen
+kynä|pen
 vihko|notebook
 kirja|book
 sanakirja|dictionary
