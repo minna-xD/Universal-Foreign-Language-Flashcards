@@ -16,7 +16,7 @@ lukukausimaksu|tuition, education expenses
 opintolaina|student loan
 vakuutus|insurance
 kaasu|gas
-käyttömaksut (sähkö, vesi, lämmitys, jätemaksu)|utilities
+asumiskustannukset (sähkö, vesi, lämmitys, jätemaksu)|utilities
 verot|taxes
 lainat|debts
 pörssi|the stock market
@@ -74,7 +74,7 @@ rakastaa toisiaan|to love each other
 solmia PACS-sopimus (siviililiitto, avoliitto)|to enter a PACS contract
 kihlautua|to get engaged
 mennä naimisiin|to get married
-erota, tehdä bänät [slang]|to break up
+erota, dumpata (break up with someone)|to break up
 erota|to get divorced
 pettää|to cheat on
 horoskooppi|horoscope
