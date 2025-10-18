@@ -10,12 +10,12 @@ lähiö, esikaupunkialue|suburbs
 rakennus|building
 toimisto, virasto|office
 kerrostalo|apartment building
-omakotitalos|house
+omakotitalo|house
 hotelli|hotel
 putiikki|boutique
 (musiikki-, video- jne.)kauppa|store (music, video, etc.)
 kauppakeskus|shopping center, mall
-supermarket, ruokakauppa|supermarket
+ruokakauppa, supermarketti|supermarket
 kahvila|café
 ravintola|restaurant
 museo|museum
@@ -51,7 +51,7 @@ temppeli|temple
 pienyritykset|small businesses
 lähikauppa|grocery store
 lihakauppa|butcher shop
-herkkupuoti|pork butchers shop, deli
+herkkupuoti, delikauppa|pork butchers shop, deli
 lounasmyymälä|deli, catering shop
 leipomo|bakery
 konditoria|pastry shop
@@ -135,7 +135,7 @@ palauttaa, antaa takaisin|to hand in, give back
 kyläillä, käydä (jollakulla) kylässä|to visit someone
 vastata|to answer
 myydä|to sell
-epäsäännöllinen menneen ajan muoto|irregular past participles
+epäsäännölliset imperfektimuodot|irregular past participles
 olla, omistaa: minulla oli ...|to have: I had ...
 juoda: minä join ...|to drink: I drank ...
 olla: minä olin ...|to be: I was ...
