@@ -19,7 +19,7 @@ eläke|retirement
 eläkeläinen|retired person
 ammatit|professions
 virkamies, virkailija|civil servant, government worker
-posteljooni|mail carrier
+postinjakaja|mail carrier
 sotilas, varusmies, reserviläinen|person in the armed services
 poliisi|police officer
 palomies, pelastaja|firefighter
