@@ -86,8 +86,8 @@ adjektiivit|adjectives
 muodissa, muodikas|in fashion
 poissa muodista, vanhanaikainen|out of style
 rento|casual
-siisti|dressy
-tyylikäs|disciplined
+siisti, tyylikäs|dressy
+hillitty|disciplined
 urheilullinen, sporttinen|athletic
 stressaantunut, rasittunut|stressed
 sairas|sick
