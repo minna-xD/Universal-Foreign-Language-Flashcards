@@ -1,5 +1,5 @@
 televisio, elokuvat|television, cinema
-TV|TV
+tv|TV
 kaukosäädin|remote control
 kanava|channel
 ohjelmisto, ohjelma-aikataulu|television schedule
@@ -30,15 +30,15 @@ komedia|comedy (movie, play)
 musikaali|musical
 musikaalikomedia|musical comedy
 lännenelokuva, länkkäri (informal)|western
-alkuperäinen versio / Ranskalainen versio|original version / French version
+alkuperäinen versio / ranskankielinen versio|original version / French version
 tekstitetty / ei tekstitystä|with / without subtitles
-näyttelijä / näyttelijätär|actor / actress
+näyttelijä (m, f) / näyttelijätär (f)|actor / actress
 julkisuuden henkilö, julkkis (informal)|celebrity
 tähti|star (refers to men or women)
 julkisuuden henkilö|celebrity
 roisto, konna, pahis (informal)|the bad guy
 lehdistö|the press
-uutiskioski|news stand
+lehtikioski|news stand
 sanomalehti|newspaper (national, regional)
 sarjakuva|comic strip
 lehti-ilmoitus|classified ad
@@ -48,7 +48,7 @@ romaani|novel
 radio|the radio
 radioasema|radio station
 laulu|song
-laulaja / laulajatar|singer
+laulaja (m, f) / laulajatar (f)|singer
 yhtye, bändi|a band
 internet|the internet
 tietokone|computer
