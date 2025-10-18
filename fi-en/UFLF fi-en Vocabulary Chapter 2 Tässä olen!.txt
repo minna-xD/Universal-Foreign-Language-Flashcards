@@ -8,7 +8,7 @@ ammatti|profession
 harrastukset|pastimes
 henkilökohtaiset kysymykset|personal questions
 Mikä on nimesi?|What is your name?
-Kuinka vanhat olet?|How old are you?
+Kuinka vanha olet?|How old are you?
 Mikä on kansallisuutesi?|What is your nationality?
 Mistä olet kotoisin?|Where are you from?
 Missä asut?|Where do you live?
@@ -40,7 +40,7 @@ veljentyttö, siskontyttö|niece
 ystävät|friends
 ystävä|friend
 kaveri|friend
-poikaystävä / tyttöystävä|friend; boyfriend / girlfriend
+ystävä; poikaystävä / tyttöystävä|friend; boyfriend / girlfriend
 kysymyssanat|interrogative words
 missä?|where?
 milloin?|when?
