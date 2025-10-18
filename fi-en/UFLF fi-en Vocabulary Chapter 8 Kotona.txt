@@ -1,11 +1,11 @@
 kotona|at home
-koti, talo|house
+talo, omakotitalo|house
 asunto|apartment
 yliopiston asuntola|university dorm
 huone|a room (general term)
 ikkuna|window
 huonekalu / huonekalut, kalusteet|a piece of furniture / furniture
-ensimmäinen kerros|ground floor, first floor
+alakerta, ensimmäinen kerros|ground floor, first floor
 portaikko|staircase, stairs
 parveke|balcony
 terassi|terrace
@@ -85,16 +85,16 @@ moderni|modern
 tumma, pimeä, hämärä|dark
 kirkas, valoisa|bright, full of light
 sotkuinen|messy
-siivottu|straightened up
-puhdas, siisti|clean
+siisti|straightened up
+puhdas|clean
 likainen|dirty
 käytännöllinen|practical
 viihtyisä|comfortable
 verbit|verbs
 muuttaa|to move (change residences)
 refleksiiviverbit|reflexive verbs
-pitää hauskaa|to have fun
-olla tylsistynyt|to be bored
+viihtyä|to have fun
+tylsistyä|to be bored
 kiirehtiä|to hurry
 huolestua|to worry
 suuttua|to get angry
